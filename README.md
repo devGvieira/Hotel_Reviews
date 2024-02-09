@@ -22,7 +22,7 @@ The author emphasizes that it is still a work in progress and, as such, the mode
 
 #### In order to run this model in **Windows** follow these steps:
 
-This project utilizes a Python virtual environment named "classCD-venv" to isolate its dependencies. Follow the instructions below to set up the virtual environment on a Windows machine.
+This project utilizes a Python virtual environment named "hotel_rev-venv" to isolate its dependencies. Follow the instructions below to set up the virtual environment on a Windows machine.
 
 1. Open PowerShell as an administrator. To do this, right-click on the PowerShell icon and choose "Run as administrator."
 
@@ -55,7 +55,7 @@ This project utilizes a Python virtual environment named "classCD-venv" to isola
 6. Activate the virtual environment:
 
     ```powershell
-    .\venv-DRZ\Scripts\Activate
+    .\hotel_rev\Scripts\Activate
     ```
 
 7. Ensure that 'pip' is up to date:
